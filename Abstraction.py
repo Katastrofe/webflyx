@@ -3,7 +3,7 @@
 ## Edit for third branch
 ## Edit for first branch
 ## This is test 3 before first and second branch
->>>>>>> a01b7b50579dfcb70043f7498c3248bf8cc0cbde
+
 class Human:
     def __init__(self, pos_x: int, pos_y: int, speed: int) -> None:
         self.__pos_x = pos_x
