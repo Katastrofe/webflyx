@@ -1,8 +1,6 @@
 ## This is a test for GIT
 ## Edit for second branch
-<<<<<<< HEAD
 ## Edit for third branch
-=======
 ## Edit for first branch
 ## This is test 3 before first and second branch
 >>>>>>> a01b7b50579dfcb70043f7498c3248bf8cc0cbde
