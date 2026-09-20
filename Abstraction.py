@@ -1,5 +1,6 @@
 ## This is a test for GIT
 ## Edit for first branch
+## This is test 3 before first and second branch
 class Human:
     def __init__(self, pos_x: int, pos_y: int, speed: int) -> None:
         self.__pos_x = pos_x
